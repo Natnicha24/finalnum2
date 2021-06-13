@@ -29,6 +29,7 @@ namespace finalnum2
 
             Console.Write("\nOddfirst");//เรียงเอาค่าเลขคี่มาก่อนมากไปน้อย
            Oddfirst(num, numberofnum);
+            Console.WriteLine();
 
         }
 
